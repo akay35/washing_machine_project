@@ -18,5 +18,11 @@ Projenin ilk adımı olarak çamaşır makinesinin temel işlevlerini analiz ede
 Ardından, CCS C derleyecisi temel kodları yazmaya başladım. Kodları, tasarladığım devre üzerinde Proteus simülasyonunda test ederek doğru çalıştığından emin oldum. 
 Testleri başarıyla tamamladıktan sonra, devrenin fiziksel montaj aşamasına geçtim. Komponentleri delikli pertinaks üzerine yerleştirip lehimleme ve test aşamalarını tamamladım.
 
+### Sonuç
+Bu proje, bana birkaç önemli şeyi hatırlattı:
+- Kısıtlı kaynaklar, yaratıcı çözümleri teşviz eder.
+- Küçük projeler, büyük projeler için birer basamaktır.
 
-Programın basit halini ve test simülasyon devresini sizlerle paylaşıyorum.
+Çalışma ortamınız veya sahip olduğunuz kaynaklar sınırlı olabilir; ancak, azim ve yaratıcılıkla neler başarabileceğinizi tahmin bile edemezsiniz.
+
+Programın basit halini ve test simülasyon devresinin ekran görüntüsünü sizlerle paylaşıyorum.
