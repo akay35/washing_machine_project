@@ -25,7 +25,7 @@ Bu proje, bana birkaç önemli şeyi hatırlattı:
 
 Çalışma ortamınız veya sahip olduğunuz kaynaklar sınırlı olabilir; ancak, azim ve yaratıcılıkla neler başarabileceğinizi tahmin bile edemezsiniz.
 
-Programın basit halini ve test simülasyon devresinin ekran görüntüsünü sizlerle paylaşıyorum.
+2017'de yapmış olduğum bu programın basit halini ve test simülasyon devresinin ekran görüntüsünü  olduğu gibi sizlerle paylaşıyorum.
 
 ---
 
