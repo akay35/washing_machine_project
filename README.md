@@ -26,3 +26,7 @@ Bu proje, bana birkaç önemli şeyi hatırlattı:
 Çalışma ortamınız veya sahip olduğunuz kaynaklar sınırlı olabilir; ancak, azim ve yaratıcılıkla neler başarabileceğinizi tahmin bile edemezsiniz.
 
 Programın basit halini ve test simülasyon devresinin ekran görüntüsünü sizlerle paylaşıyorum.
+
+---
+
+![image](https://github.com/akay35/image/blob/main/isis.png)
