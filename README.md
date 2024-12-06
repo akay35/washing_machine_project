@@ -30,3 +30,11 @@ Bu proje, bana birkaç önemli şeyi hatırlattı:
 ---
 
 ![image](https://github.com/akay35/image/blob/main/isis.png)
+
+![image](https://github.com/akay35/image/blob/main/3-c.png)
+
+![image](https://github.com/akay35/image/blob/main/1-c.png)
+
+![image](https://github.com/akay35/image/blob/main/2-c.png)
+
+
