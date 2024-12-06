@@ -15,6 +15,7 @@ Basit kod satırları ve elimdeki malzemeler ile yeni bir motherboard yapma fikr
 
 ### Çözüm:
 Projenin ilk adımı olarak çamaşır makinesinin temel işlevlerini analiz ederek; yıkama, durulama ve sıkma gibi işlemleri kontrol eden devrenin nasıl çalıştığını inceledim.
+Bu süreçleri yönetmek için basit ve küçük bir mikrodenetleyici seçimi olarak 16F84 kullanmaya karar verdim
 Ardından, CCS C derleyecisi temel kodları yazmaya başladım. Kodları, tasarladığım devre üzerinde Proteus simülasyonunda test ederek doğru çalıştığından emin oldum. 
 Testleri başarıyla tamamladıktan sonra, devrenin fiziksel montaj aşamasına geçtim. Komponentleri delikli pertinaks üzerine yerleştirip lehimleme ve test aşamalarını tamamladım.
 
